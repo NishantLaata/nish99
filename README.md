@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nish
+- 👋 Hi, I’m @Nishant
 - 👀 I’m interested in the field of Data Analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working on improving my python as well as visualization skills
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : nishant.laata@gmail.com
 
